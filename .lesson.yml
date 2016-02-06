@@ -1,0 +1,9 @@
+---
+title: "Voter Demographics"
+type: "challenge"
+description: "Use compound data structures to analyze voter data"
+tags: "arrays, hashes, compound-data-structures"
+visibility: "public"
+ignore:
+- "voter_demographics.md"
+- "solution.rb"
